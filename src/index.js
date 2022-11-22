@@ -7,3 +7,8 @@ import './less/index.less'
 
 
 // Kodlar buraya gelecek!
+// const ilkNavItem = document.querySelector('.nav-link');
+
+// window.addEventListener("load", (event)) => {
+//     ilkNavItem.style.color
+// }
